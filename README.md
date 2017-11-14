@@ -1,3 +1,5 @@
+> This fork disable automatic conversation ending.
+
 <p align="center">
 	<img src="./assets/logo.png" />
 </p>
