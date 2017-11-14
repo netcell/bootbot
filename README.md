@@ -25,7 +25,7 @@ BootBot is a simple but powerful JavaScript Framework to build Facebook Messenge
 ## Usage
 
 ```
-$ npm install bootbot --save
+$ npm install netcell/bootbot --save
 ```
 
 ```javascript
